@@ -1,4 +1,4 @@
-# scratch
+# Scratch Card !!
 
 A GPay Inspired Scratch Card in Flutter
 
